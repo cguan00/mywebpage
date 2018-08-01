@@ -11,7 +11,7 @@ function change() {
   }
 }
 
-//setInterval(change,2000);
+setInterval(change,2000);
 
 
 function mainpicfunction() {
